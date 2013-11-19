@@ -26,3 +26,4 @@ Google.se
 Tidsplanering:
 http://piclair.com/data/raymm.jpg
 
+Tror det
